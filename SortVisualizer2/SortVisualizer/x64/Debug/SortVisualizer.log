@@ -1,0 +1,312 @@
+﻿  bitonic_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  sample_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\sample_sort.cpp(68,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\sample_sort.cpp(70,31): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\sample_sort.cpp(76,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  cartesian_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\cartesian_sort.cpp(31,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\cartesian_sort.cpp(32,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  comb_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\comb_sort.cpp(21,22): warning C4018: '<': signed/unsigned mismatch
+  cycle_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\cycle_sort.cpp(9,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\cycle_sort.cpp(24,39): warning C4018: '<': signed/unsigned mismatch
+  dutch_flag_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  flash_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\flash_sort.cpp(17,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\flash_sort.cpp(18,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\flash_sort.cpp(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\flash_sort.cpp(44,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\flash_sort.cpp(47,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\flash_sort.cpp(53,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  gnome_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\gnome_sort.cpp(7,19): warning C4018: '<': signed/unsigned mismatch
+  gravity_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\gravity_sort.cpp(9,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\gravity_sort.cpp(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\gravity_sort.cpp(23,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\gravity_sort.cpp(28,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\gravity_sort.cpp(31,13): warning C4018: '<': signed/unsigned mismatch
+  heap_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  insertion_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\insertion_sort.cpp(5,21): warning C4018: '<': signed/unsigned mismatch
+  intro_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\intro_sort.cpp(27,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  merge_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  odd_even_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\odd_even_sort.cpp(10,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\odd_even_sort.cpp(18,22): warning C4018: '<': signed/unsigned mismatch
+  quick_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  radix_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\radix_sort.cpp(17,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\radix_sort.cpp(24,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\radix_sort.cpp(41,34): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\radix_sort.cpp(76,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\radix_sort.cpp(83,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\radix_sort.cpp(104,22): warning C4018: '<': signed/unsigned mismatch
+  ripple_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\ripple_sort.cpp(7,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\ripple_sort.cpp(8,27): warning C4018: '<': signed/unsigned mismatch
+  shatter_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\shatter_sort.cpp(7,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\shatter_sort.cpp(35,23): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\shatter_sort.cpp(44,30): warning C4018: '>=': signed/unsigned mismatch
+  shell_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\shell_sort.cpp(11,12): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\shell_sort.cpp(14,24): warning C4018: '<': signed/unsigned mismatch
+  simple_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\simple_sort.cpp(8,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\simple_sort.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\simple_sort.cpp(45,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\simple_sort.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  smooth_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\smooth_sort.cpp(150,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\smooth_sort.cpp(164,16): warning C4018: '<': signed/unsigned mismatch
+  stooge_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\stooge_sort.cpp(17,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  strand_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  time_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\time_sort.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+  tim_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\tim_sort.cpp(28,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\tim_sort.cpp(29,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\tim_sort.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\tim_sort.cpp(33,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\tim_sort.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+  tree_sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Algorithms\tree_sort.cpp(61,22): warning C4018: '<': signed/unsigned mismatch
+  bar_renderer.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\bar_renderer.cpp(8,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\bar_renderer.cpp(9,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  circle_renderer.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\circle_renderer.cpp(22,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\circle_renderer.cpp(22,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\circle_renderer.cpp(24,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\circle_renderer.cpp(24,46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\circle_renderer.cpp(25,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\circle_renderer.cpp(25,46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ring_renderer.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\ring_renderer.cpp(13,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\ring_renderer.cpp(28,69): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\ring_renderer.cpp(28,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  line_renderer.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\line_renderer.cpp(18,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\line_renderer.cpp(19,5): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\line_renderer.cpp(21,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\line_renderer.cpp(21,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\line_renderer.cpp(23,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\line_renderer.cpp(23,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  square_renderer.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\square_renderer.cpp(30,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\square_renderer.cpp(30,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\square_renderer.cpp(34,115): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\square_renderer.cpp(34,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  wave_renderer.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\wave_renderer.cpp(20,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\wave_renderer.cpp(22,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\wave_renderer.cpp(22,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\wave_renderer.cpp(24,108): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\ArrayRenderer\wave_renderer.cpp(24,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  player.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\player.cpp(15,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  synth.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.cpp(65,30): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=sf::Int16
+          ]
+  sort.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  logic.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\SortArray\logic.cpp(12,8): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\SortArray\logic.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+  render.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\SortArray\render.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\SortArray\render.cpp(54,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\SortArray\render.cpp(61,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\SortArray\render.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\SortArray\render.cpp(118,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\SortArray\render.cpp(119,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\SortArray\render.cpp(120,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  sort_array.cpp
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\Player\synth.h(15,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\SortArray\sort_array.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\SortVisualizer\src\SortArray\sort_array.cpp(30,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+render.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+bar_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+ring_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+square_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+wave_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+square_renderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z) referenced in function "protected: void __cdecl std::time_get<char,class std::istreambuf_iterator<char,struct std::char_traits<char> > >::_Getvals<wchar_t>(wchar_t,class std::_Locinfo const &)" (??$_Getvals@_W@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IEAAX_WAEBV_Locinfo@1@@Z)
+wave_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+bar_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+circle_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+ring_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+line_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+wave_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z)
+bar_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z)
+ring_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z)
+line_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z)
+square_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z)
+wave_renderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ) referenced in function "public: virtual void __cdecl WaveRenderer::drawElement(int,int,class sf::Color const &)" (?drawElement@WaveRenderer@@UEAAXHHAEBVColor@sf@@@Z)
+bar_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ)
+ring_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ)
+line_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ)
+square_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ)
+square_renderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z) referenced in function "protected: void __cdecl std::time_get<char,class std::istreambuf_iterator<char,struct std::char_traits<char> > >::_Getvals<wchar_t>(wchar_t,class std::_Locinfo const &)" (??$_Getvals@_W@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IEAAX_WAEBV_Locinfo@1@@Z)
+wave_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+render.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+bar_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+circle_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+ring_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+line_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+square_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+wave_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+render.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+bar_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+circle_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+ring_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+line_renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+circle_renderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::ConvexShape::ConvexShape(unsigned __int64)" (__imp_??0ConvexShape@sf@@QEAA@_K@Z) referenced in function "public: virtual void __cdecl CircleRenderer::drawElement(int,int,class sf::Color const &)" (?drawElement@CircleRenderer@@UEAAXHHAEBVColor@sf@@@Z)
+circle_renderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::ConvexShape::setPoint(unsigned __int64,class sf::Vector2<float> const &)" (__imp_?setPoint@ConvexShape@sf@@QEAAX_KAEBV?$Vector2@M@2@@Z) referenced in function "public: virtual void __cdecl CircleRenderer::drawElement(int,int,class sf::Color const &)" (?drawElement@CircleRenderer@@UEAAXHHAEBVColor@sf@@@Z)
+circle_renderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::ConvexShape::~ConvexShape(void)" (__imp_??1ConvexShape@sf@@UEAA@XZ) referenced in function "public: virtual void __cdecl CircleRenderer::drawElement(int,int,class sf::Color const &)" (?drawElement@CircleRenderer@@UEAAXHHAEBVColor@sf@@@Z)
+line_renderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z) referenced in function "public: virtual void __cdecl LineRenderer::drawElement(int,int,class sf::Color const &)" (?drawElement@LineRenderer@@UEAAXHHAEBVColor@sf@@@Z)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) referenced in function "void __cdecl startApp(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?startApp@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+render.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ) referenced in function "void __cdecl startApp(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?startApp@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+render.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z) referenced in function "void __cdecl startApp(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?startApp@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ) referenced in function "void __cdecl startApp(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?startApp@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+sort_array.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ) referenced in function "void __cdecl startApp(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?startApp@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z) referenced in function "void __cdecl startApp(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?startApp@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+sort_array.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z) referenced in function "void __cdecl startApp(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?startApp@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+render.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z) referenced in function "void __cdecl startApp(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?startApp@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+render.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z) referenced in function "void __cdecl startApp(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?startApp@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ) referenced in function "void __cdecl startApp(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?startApp@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+synth.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::SoundStream::~SoundStream(void)" (__imp_??1SoundStream@sf@@UEAA@XZ) referenced in function "int `public: __cdecl Synth::Synth(class dtor$0 const &)'::`1'::dtor$0" (?dtor$0@?0???0Synth@@QEAA@AEBV0@@Z@4HA)
+synth.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual void __cdecl sf::SoundStream::stop(void)" (__imp_?stop@SoundStream@sf@@UEAAXXZ) referenced in function "public: virtual __cdecl Synth::~Synth(void)" (??1Synth@@UEAA@XZ)
+synth.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) protected: __cdecl sf::SoundStream::SoundStream(void)" (__imp_??0SoundStream@sf@@IEAA@XZ) referenced in function "public: __cdecl Synth::Synth(class Synth const &)" (??0Synth@@QEAA@AEBV0@@Z)
+synth.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) protected: void __cdecl sf::SoundStream::initialize(unsigned int,unsigned int)" (__imp_?initialize@SoundStream@sf@@IEAAXII@Z) referenced in function "public: __cdecl Synth::Synth(class Synth const &)" (??0Synth@@QEAA@AEBV0@@Z)
+synth.obj : error LNK2001: unresolved external symbol "public: virtual enum sf::SoundSource::Status __cdecl sf::SoundStream::getStatus(void)const " (?getStatus@SoundStream@sf@@UEBA?AW4Status@SoundSource@2@XZ)
+synth.obj : error LNK2001: unresolved external symbol "protected: virtual __int64 __cdecl sf::SoundStream::onLoop(void)" (?onLoop@SoundStream@sf@@MEAA_JXZ)
+synth.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl sf::SoundStream::pause(void)" (?pause@SoundStream@sf@@UEAAXXZ)
+synth.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl sf::SoundStream::play(void)" (?play@SoundStream@sf@@UEAAXXZ)
+synth.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl sf::SoundStream::stop(void)" (?stop@SoundStream@sf@@UEAAXXZ)
+render.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ) referenced in function "public: void __cdecl SortArray::drawVector(class std::vector<int,class std::allocator<int> > const &)" (?drawVector@SortArray@@QEAAXAEBV?$vector@HV?$allocator@H@std@@@std@@@Z)
+render.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ) referenced in function "private: void __cdecl SortArray::drawText(void)" (?drawText@SortArray@@AEAAXXZ)
+render.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ) referenced in function "private: void __cdecl SortArray::drawText(void)" (?drawText@SortArray@@AEAAXXZ)
+render.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "private: void __cdecl SortArray::drawText(void)" (?drawText@SortArray@@AEAAXXZ)
+render.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(class sf::String const &,class sf::Font const &,unsigned int)" (__imp_??0Text@sf@@QEAA@AEBVString@1@AEBVFont@1@I@Z) referenced in function "private: void __cdecl SortArray::drawText(void)" (?drawText@SortArray@@AEAAXXZ)
+render.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ) referenced in function "private: void __cdecl SortArray::drawText(void)" (?drawText@SortArray@@AEAAXXZ)
+C:\Users\Acer\Desktop\Sorting-Visualizer-1.0\SortVisualizer-master\x64\Debug\SortVisualizer.exe : fatal error LNK1120: 35 unresolved externals
